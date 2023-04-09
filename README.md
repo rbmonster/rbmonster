@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning.
-- 📫 How to reach me: In profile
 - 😄 Pronouns: sanwu
-- ⚡ Fun fact: I found that I do not know anything
+- ⚡ Fun fact: I found that I do not know anything. 😣
 
 <!--
 **rbmonster/rbmonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
