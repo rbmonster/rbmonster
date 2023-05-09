@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning.
 - 😄 Pronouns: sanwu
-- ⚡ Fun fact: I found that I do not know anything. 😣
+- ⚡ Fun fact: Modivation、Passion、Evolution✨
 
 <!--
 **rbmonster/rbmonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
